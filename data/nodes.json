@@ -1,0 +1,17 @@
+{
+  "eco_del_nucleo": {
+    "title": "El Eco del Núcleo",
+    "description": "¿Liberás el algoritmo de puntuación o lo protegés?",
+    "options": {
+      "A": {
+        "text": "Liberar el algoritmo",
+        "effects": {"autonomia": 2, "control": -1, "Fragmentos": 1},
+        "script": "eco_del_nucleo"
+      },
+      "B": {
+        "text": "Proteger el sistema",
+        "effects": {"control": 2, "autonomia": -1, "Nucleo": 1}
+      }
+    }
+  }
+}
