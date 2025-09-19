@@ -1,0 +1,19 @@
+{
+    "decisiones": [
+        {
+            "momento": "eco_del_nucleo",
+            "dilema": "\u00bfLiber\u00e1s el algoritmo de puntuaci\u00f3n o lo proteg\u00e9s?",
+            "elecci\u00f3n": "A",
+            "impacto": {
+                "autonomia": 2,
+                "control": -1,
+                "Fragmentos": 1
+            }
+        }
+    ],
+    "perfil": {
+        "confianza": 2,
+        "anonimato": -1,
+        "riesgo": 1
+    }
+}
